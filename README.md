@@ -5,3 +5,5 @@
 3. npm install
 
 4. npm run start
+
+or open 'dist' and run 'index.html'
